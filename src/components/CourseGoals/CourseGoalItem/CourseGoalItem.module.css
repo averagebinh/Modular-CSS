@@ -1,0 +1,18 @@
+/* CourseGoalItem.module.css */
+
+.goal-item {
+    margin: 0.5rem 0;
+    padding: 1rem;
+    border: 1px solid #8b005d;
+    background-color: #8b005d;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  
+  .goal-item:hover,
+  .goal-item:active {
+    background-color: #ac0e77;
+    border-color: #ac0e77;
+  }
+  
